@@ -1,3 +1,4 @@
+require 'jimson'
 module Popcorntime
   class Remote
     def initialize(user,password,host,port)
